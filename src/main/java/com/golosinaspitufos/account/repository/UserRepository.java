@@ -1,6 +1,6 @@
-package com.hellokoding.account.repository;
+package com.golosinaspitufos.account.repository;
 
-import com.hellokoding.account.model.User;
+import com.golosinaspitufos.account.model.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface UserRepository extends JpaRepository<User, Long> {

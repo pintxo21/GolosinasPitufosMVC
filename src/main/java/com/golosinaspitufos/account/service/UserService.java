@@ -1,6 +1,6 @@
-package com.hellokoding.account.service;
+package com.golosinaspitufos.account.service;
 
-import com.hellokoding.account.model.User;
+import com.golosinaspitufos.account.model.User;
 
 public interface UserService {
     void save(User user);

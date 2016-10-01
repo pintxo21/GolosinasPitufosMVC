@@ -1,9 +1,9 @@
-package com.hellokoding.account.web;
+package com.golosinaspitufos.account.web;
 
-import com.hellokoding.account.model.User;
-import com.hellokoding.account.service.SecurityService;
-import com.hellokoding.account.service.UserService;
-import com.hellokoding.account.validator.UserValidator;
+import com.golosinaspitufos.account.model.User;
+import com.golosinaspitufos.account.service.SecurityService;
+import com.golosinaspitufos.account.service.UserService;
+import com.golosinaspitufos.account.validator.UserValidator;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

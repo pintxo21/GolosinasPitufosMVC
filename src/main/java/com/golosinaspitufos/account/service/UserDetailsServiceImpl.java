@@ -1,8 +1,8 @@
-package com.hellokoding.account.service;
+package com.golosinaspitufos.account.service;
 
-import com.hellokoding.account.model.Role;
-import com.hellokoding.account.model.User;
-import com.hellokoding.account.repository.UserRepository;
+import com.golosinaspitufos.account.model.User;
+import com.golosinaspitufos.account.repository.UserRepository;
+import com.golosinaspitufos.account.model.Role;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;

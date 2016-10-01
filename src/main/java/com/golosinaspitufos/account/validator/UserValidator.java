@@ -1,7 +1,7 @@
-package com.hellokoding.account.validator;
+package com.golosinaspitufos.account.validator;
 
-import com.hellokoding.account.model.User;
-import com.hellokoding.account.service.UserService;
+import com.golosinaspitufos.account.model.User;
+import com.golosinaspitufos.account.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 import org.springframework.validation.Errors;

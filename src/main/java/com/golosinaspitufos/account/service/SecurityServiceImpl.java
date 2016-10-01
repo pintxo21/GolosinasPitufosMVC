@@ -1,4 +1,4 @@
-package com.hellokoding.account.service;
+package com.golosinaspitufos.account.service;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
